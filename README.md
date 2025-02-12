@@ -1,6 +1,6 @@
 # **GitHub Portfolio** 🌟
 
-Welcome! I’m Jean-Raphaël Houdouin, a Data Analyst and Machine Learning enthusiast passionate about transforming data into actionable insights. Below is a curated selection of my projects and key repositories, showcasing expertise in data analysis, machine learning, visualization, and programming. My professional certifications are also listed at the end.
+Welcome! I’m Raphaël Houdouin, a Data Analyst and Machine Learning enthusiast passionate about transforming data into actionable insights. Below is a curated selection of my projects and key repositories, showcasing expertise in data analysis, machine learning, visualization, and programming. My professional certifications are also listed at the end.
 
 ---
 
@@ -118,7 +118,7 @@ Comprehensive statistical analysis of crime data in France, identifying regional
 
 Feel free to explore my repositories or reach out for collaboration, feedback, or discussions:  
 
-- **GitHub:** [github.com/JeanraphaelHoudouin](https://github.com/raphaelhoudouin)  
-- **LinkedIn:** [linkedin.com/in/JeanraphaelHoudouin](https://linkedin.com/in/jeanraphaelhoudouin)  
+- **GitHub:** [github.com/raphaelhoudouin](https://github.com/raphaelhoudouin)  
+- **LinkedIn:** [linkedin.com/in/RaphaelHoudouin](https://linkedin.com/in/raphaelhoudouin)  
 
 ---
