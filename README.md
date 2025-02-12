@@ -119,7 +119,7 @@ Comprehensive statistical analysis of crime data in France, identifying regional
 Feel free to explore my repositories or reach out for collaboration, feedback, or discussions:  
 
 - **Name**: Raphaël Houdouin  
-- **GitHub:** [github.com/raphaelhoudouin](https://github.com/raphaelhoudouin)  
+- **GitHub:** [raphaelhoudouin](https://github.com/raphaelhoudouin)  
 - **LinkedIn:** [Raphaël Houdouin](https://linkedin.com/in/raphaelhoudouin)
   
 ---
