@@ -90,7 +90,7 @@ Comprehensive statistical analysis of crime data in France, identifying regional
 
 - **Master’s Degree in Strategic Management **  
   *Audencia Business School (2017–2019)*  
-  Key Focus: Corporate Finance, Predictive Analytics, Big Data and AI
+  Key Focus: Corporate Finance, Predictive Analytics, Data Science
 
 - **Exchange Program in Big Data Science**  
   *Kozminski University (2018)*  
