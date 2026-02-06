@@ -1,6 +1,6 @@
 # **GitHub Portfolio** 🌟
 
-Welcome! I’m Raphaël Houdouin, a Data Analyst and Machine Learning enthusiast passionate about transforming data into actionable insights. Below is a curated selection of my projects and key repositories, showcasing expertise in data analysis, machine learning, visualization, and programming. My professional certifications are also listed at the end.
+Welcome! I’m Raphaël Houdouin, a Financial Data Analyst and Machine Learning enthusiast passionate about transforming data into actionable insights. Below is a curated selection of my projects and key repositories, showcasing expertise in data analysis, machine learning, visualization, and programming. My professional certifications are also listed at the end.
 
 ---
 
